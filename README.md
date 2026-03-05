@@ -4,7 +4,21 @@ Gosto de criar ferramentas práticas para diagnóstico de rede, monitoramento de
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" alt=".NET" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" alt="HTML" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="48" alt="Windows" title="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="48" alt="Android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="48" alt="Grafana" title="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code" />
+</div>
 
 - **Linguagens principais**: C# (.NET), Java, Python, JavaScript  
 - **Áreas de atuação**:
@@ -16,7 +30,7 @@ Gosto de criar ferramentas práticas para diagnóstico de rede, monitoramento de
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto                          | Descrição                                              | Linguagem Principal |
 |----------------------------------|--------------------------------------------------------|---------------------|
@@ -31,7 +45,7 @@ Gosto de criar ferramentas práticas para diagnóstico de rede, monitoramento de
 
 ---
 
-## 🌐 Links
+## Links
 
 - **Website / Portfólio**: [cfprojects.pages.dev](https://cfprojects.pages.dev/)
 - **GitHub**: [@kfn-d0](https://github.com/kfn-d0)
