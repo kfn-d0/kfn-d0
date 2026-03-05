@@ -37,9 +37,3 @@ Gosto de criar ferramentas práticas para diagnóstico de rede, monitoramento de
 - **GitHub**: [@kfn-d0](https://github.com/kfn-d0)
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-![kfn-d0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kfn-d0&show_icons=true&theme=tokyonight)
-
----
