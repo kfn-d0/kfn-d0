@@ -30,7 +30,7 @@ Gosto de criar ferramentas práticas para diagnóstico de rede, monitoramento de
 
 ---
 
-## Projetos em Destaque
+## Projetos / Ferramentas
 
 | Projeto                          | Descrição                                              | Linguagem Principal |
 |----------------------------------|--------------------------------------------------------|---------------------|
