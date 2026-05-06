@@ -1,6 +1,5 @@
-**Network - Observability - Automação**
 
-Gosto de criar ferramentas práticas para diagnóstico de rede, monitoramento de infraestrutura e automação de processos.  
+Criando ferramentas para diagnóstico de rede, monitoramento de infraestrutura e automação.  
 
 ---
 
