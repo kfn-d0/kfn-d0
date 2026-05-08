@@ -10,7 +10,7 @@
     <td width="75%" valign="top">
       <b>Rede</b> / troubleshooting, ICMP, rotas, subdomínios, ASN, Wi-Fi<br>
       <b>Infra</b> / Linux, Windows, Grafana, Zabbix, auditoria e backup<br>
-      <b>Software</b> / C++, C#, Python, Java, JavaScript, TypeScript e Android<br>
+      <b>Software</b> / C++, C#, Python, Java, JavaScript, TypeScript<br>
       <b>Automação</b> / coleta de dados, ferramentas locais e processos repetíveis
     </td>
   </tr>
@@ -41,7 +41,7 @@
 | Projeto | Sinal | Stack |
 | --- | --- | --- |
 | [netfetch](https://github.com/kfn-d0/netfetch) | Neofetch para informações de rede, com suporte a Linux e Windows. | C++ |
-| [ISP_Risk_Scanner](https://github.com/kfn-d0/ISP_Risk_Scanner) | Análise de superfície de exposição pública de IPs em ASNs. | Python, Docker, Shodan |
+| [ISP_Risk_Scanner](https://github.com/kfn-d0/ISP_Risk_Scanner) | Análise de superfície de exposição pública de IPs em ASNs. | Python, Docker |
 | [Wireless-Network-Visualizer](https://github.com/kfn-d0/Wireless-Network-Visualizer) | Simulador de cobertura Wi-Fi e heatmap baseado no modelo ITU-R P.1238. | JavaScript |
 | [RotaFacil](https://github.com/kfn-d0/RotaFacil) | Projeto simples para cálculo e visualização de rotas com mapas. | JavaScript, Leaflet |
 | [ISPing](https://github.com/kfn-d0/ISPing) | Monitor leve de latência para Windows, rodando na área de notificação. | C#, .NET |
