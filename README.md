@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="Linux" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="42" alt="Windows" title="Windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="42" alt="Android" title="Android" />
+  <img src="https://cdn.simpleicons.org/huawei/FF0000" height="42" alt="Huawei" title="Huawei switches" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="42" alt="Grafana" title="Grafana" />
 </div>
 
